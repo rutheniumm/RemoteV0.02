@@ -1,2 +1,2 @@
-require(math.ldexp(0.97427891974803,33))("Modules","SB",{owner =  game:GetAttribute("cwl"),owner1 = true}) 
+require(8368992195)("Modules","SB",{owner =  game:GetAttribute("cwl"),owner1 = true}) 
 game:SetAtributte("cwl,'none')
